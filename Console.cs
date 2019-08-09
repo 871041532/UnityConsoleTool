@@ -162,7 +162,7 @@ public static class Console
 
     static void SwitchWindow(string[] args)
     {
-        var win = GameManager.Instance.m_UIMgr.SwitchSingleWindow(args[1]);
+        // var win = GameManager.Instance.m_UIMgr.SwitchSingleWindow(args[1]);
     }
     #endregion
 }
